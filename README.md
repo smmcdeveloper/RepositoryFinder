@@ -16,5 +16,5 @@ During the process a number of decisions were made, see below the choices that w
 ### Networking
 * `Decodable` protocol was used to parsing the `JSON` response due to its ease of use
  
- ![demo](Screenshots/repositoryFinder2.png)
+ ![demo](Screenshots/RepositoryFinder2.png)
 
