@@ -1,11 +1,9 @@
 # Repository Finder
 ## Build & Running 
 To build the project:
-1. Oper Terminal
-2. Go to the proyect folder
-1. Run pod install
+1. Go to the proyect folder
 2. Open the `.xcodeproj` file
-2. Run the application (`CMD + R`) on your chosen simluator 
+3. Run the application (`CMD + R`) on your chosen simluator 
 
 ## Methodology & Reasoning
 During the process a number of decisions were made, see below the choices that were made and the reasons why 
